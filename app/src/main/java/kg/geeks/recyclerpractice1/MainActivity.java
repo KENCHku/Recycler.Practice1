@@ -51,7 +51,6 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("Sum of even: " + sumOfEven);
         System.out.println("Product of odd: " + productOfOdd);
-
     }
 
     private void listDigitsEvenOdd() {
